@@ -4,7 +4,7 @@ Arduino ile sıcaklık, nem, basınç ve alarm durumunu takip etmeye yönelik ha
 
 Bu repo; set içerisindeki parçaların ne işe yaradığını, hangi pinlere bağlandığını, örnek test kodlarını ve LCD ekranlı hava durumu istasyonu projesini düzenli şekilde paylaşmak için hazırlanmıştır.
 
-> Ürün sayfası: [Robomer Hava Durumu Proje Seti]([https://robomer.com/hava-durumu-proje-seti](https://robomer.com/h2hava-durumu-proje-seti-h2-h3br-h3h3urun-aciklamasi-h3-hava-durumu-proje-seti--cevresel-veri-toplama-ve-gorsellestirme-projeleri-gelistirmek-isteyenler-icin-hazirlanmis))  
+> Ürün sayfası: [Robomer Hava Durumu Proje Seti](https://robomer.com/h2hava-durumu-proje-seti-h2-h3br-h3h3urun-aciklamasi-h3-hava-durumu-proje-seti--cevresel-veri-toplama-ve-gorsellestirme-projeleri-gelistirmek-isteyenler-icin-hazirlanmis)  
 > Proje blogu: [Arduino ile LCD Ekranlı Hava Durumu İstasyonu Nasıl Yapılır?](https://robomer.com/blog/arduino-ile-lcd-ekranli-hava-durumu-istasyonu-nasil-yapilir)  
 > YouTube videosu: [VIDEO_URL_BURAYA](VIDEO_URL_BURAYA)
 
