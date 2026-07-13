@@ -56,7 +56,7 @@ Projede kullanılan temel ölçümler:
 | DHT11 Isı ve Nem Sensörü | Ortam sıcaklığı ve nem değerlerini okur | [Ürünü İncele](https://robomer.com/dht11-isi-ve-nem-sensoru-modulu-kablo-hediyeli) | [DHT11 Nedir?](https://robomer.com/blog/dht11-nedir-nasil-calisir-arduino-ile-sicaklik-ve-nem-sensoru-kullanimi) |
 | BMP180 Basınç Sensörü | Barometrik basınç ve sıcaklık değeri okur | [Ürünü İncele](https://robomer.com/bmp180-dijital-hava-basinc-barometrik-sensor-gy-68) | [BMP180 Nedir?](https://robomer.com/blog/bmp180-nedir) |
 | 16x2 I2C LCD Ekran | Ölçülen değerleri ekranda gösterir | [Ürünü İncele](https://robomer.com/16x2-mavi-lcd-ekran---i2c-lehimli) | [I2C LCD Ekran Nedir?](https://robomer.com/blog/i2c-16x2-lcd-ekran-nedir-arduino-ile-i2c-lcd-ekran-kullanimi) |
-| Buzzer | Alarm durumunda sesli uyarı verir | [Ürünü İncele](https://robomer.com/5v-aktif-buzzer) | [Buzzer Nedir?](BUZZER_BLOG_URL_BURAYA) |
+| Buzzer | Alarm durumunda sesli uyarı verir | [Ürünü İncele](https://robomer.com/5v-aktif-buzzer) | [Buzzer Nedir?]([BUZZER_BLOG_URL_BURAYA](https://robomer.com/blog/buzzer-nedir-aktif-ve-pasif-buzzer-arasindaki-farklar)) |
 | 5V Röle Kartı | Alarm çıkışı simülasyonu için kullanılır | [Ürünü İncele](https://robomer.com/5v-1-kanal-role-karti) | [Röle Modülü Nedir?](https://robomer.com/blog/role-nedir-nasil-calisir-arduino-ile-5v-role-karti-kullanimi) |
 | Jumper Kablo | Modüller arası bağlantı için kullanılır | [Ürünü İncele](https://robomer.com/40-adet-erkek-erkek-jumper-kablo-10cm)
 
